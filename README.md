@@ -1,2 +1,2 @@
-# algorithms-share
-For sharing the codes
+# presentation-codes-share
+For sharing the codes about presentations
